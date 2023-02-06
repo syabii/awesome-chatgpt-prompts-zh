@@ -2,7 +2,7 @@
 
 ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，能够生成类人文本。通过向它提供提示，它可以生成继续对话或扩展给定提示的响应。
 
-在此存储库中，您将找到可与 ChatGPT 一起使用的各种提示。
+在此存储库中，您能将找到可与 ChatGPT 一起使用的各种提示。
 
 [点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
 
